@@ -4,6 +4,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-juan-5192b522a/) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:robin.juan@outlook.fr)
+[![Web](https://img.shields.io/badge/Web-%23D14836.svg?logo=edge&logoColor=white)](https://bokona.fr)
 
 # 💻 Tech Stack:
 ## Web Development:
