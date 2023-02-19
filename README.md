@@ -2,7 +2,7 @@
 🔭 I’m a French Engineer Student in Computer Science.<br>💬 Shoot me an Email or add me on LinkedIn :)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/robin-juan-5192b522a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-juan-5192b522a/) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:robin.juan@outlook.fr)
 
 # 💻 Tech Stack:
